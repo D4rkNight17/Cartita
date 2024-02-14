@@ -73,22 +73,21 @@
 }
 
 .words.line1 {
-  top: 14%;
+  top: 10%;
   width: 40%;
   height: 10%;
 }
 
 .words.line2 {
-  top: 31%;
-  height: 10%;
+  top: 30%;
 }
 
 .words.line3 {
-  top: 48%;
+  top: 50%;
 }
 
 .words.line4 {
-    top: 65%;
+  top: 70%;
 }
   
   .open .flap {
